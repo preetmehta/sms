@@ -1,0 +1,16 @@
+F:\SMS\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+F:\SMS\sms\sms\obj\Debug\MainWindow.baml
+F:\SMS\sms\sms\obj\Debug\UserCredentials.baml
+F:\SMS\sms\sms\obj\Debug\MainWindow.g.cs
+F:\SMS\sms\sms\obj\Debug\UserCredentials.g.cs
+F:\SMS\sms\sms\obj\Debug\App.g.cs
+F:\SMS\sms\sms\obj\Debug\sms_MarkupCompile.cache
+F:\SMS\sms\sms\obj\Debug\sms.g.resources
+F:\SMS\sms\sms\obj\Debug\sms.Properties.Resources.resources
+F:\SMS\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+F:\SMS\sms\sms\bin\Debug\sms.exe
+F:\SMS\sms\sms\bin\Debug\sms.pdb
+F:\SMS\sms\sms\obj\Debug\sms.exe
+F:\SMS\sms\sms\obj\Debug\sms.pdb
+F:\SMS\sms\sms\bin\Debug\sms.exe.config
+F:\SMS\sms\sms\bin\Debug\app.config
